@@ -1,4 +1,4 @@
-# CSS-Fundamentals-1.0 💻
+# CSS-Fundamentals-2.0 💻
 
 ## Task 🎯
 
